@@ -1,0 +1,83 @@
+{
+    "key_usage": {
+        "cinnamon": {
+            "coffee_breaks": 2,
+            "return": 1,
+            "get": 17,
+            "confirm": 0
+        }
+    },
+    "completed": [],
+    "unconfirmed": [
+        [
+            "Michael",
+            "Adams"
+        ],
+        [
+            "Adeniyi",
+            "Adebayo"
+        ],
+        [
+            "Akin",
+            "Agar"
+        ],
+        [
+            "Ian",
+            "Aguilar"
+        ],
+        [
+            "Chris",
+            "Akeroyd"
+        ],
+        [
+            "Kelly",
+            "Albiston"
+        ],
+        [
+            "Tahir",
+            "Ali"
+        ],
+        [
+            "Dan",
+            "Allensworth"
+        ],
+        [
+            "Charles",
+            "Almy"
+        ],
+        [
+            "Tom",
+            "Anfuso"
+        ],
+        [
+            "Tim",
+            "Arthur"
+        ],
+        [
+            "Eric",
+            "Aulbach"
+        ],
+        [
+            "Sunny",
+            "Azadeh"
+        ],
+        [
+            "Sean",
+            "Azhadi"
+        ],
+        [
+            "Guy",
+            "Babbitt"
+        ],
+        [
+            "Michael",
+            "Adams"
+        ],
+        [
+            "Peter",
+            "Bergan"
+        ]
+    ],
+    "left": [],
+    "errors": 0
+}
